@@ -1,7 +1,7 @@
 # python_lunch
 python-lunch for python 3.x
 
-# fixed this issuse (Python-lunch Syntax Error: except ImportError , e:) 
+fixed this issuse (Python-lunch Syntax Error: except ImportError , e:) 
 
 https://stackoverflow.com/questions/70360866/python-lunch-syntax-error-except-importerror-e
 
