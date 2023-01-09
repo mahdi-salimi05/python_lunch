@@ -5,7 +5,7 @@ python-lunch for python 3.x
 
 https://stackoverflow.com/questions/70360866/python-lunch-syntax-error-except-importerror-e
 
-Traceback (most recent call last):
+  Traceback (most recent call last):
   
   File "/usr/bin/lunch", line 41, in <module>
 
@@ -15,4 +15,4 @@ Traceback (most recent call last):
 
     except ImportError, e:
                       ^
-SyntaxError: invalid syntax
+  SyntaxError: invalid syntax
